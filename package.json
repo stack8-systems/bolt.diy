@@ -1,13 +1,13 @@
 {
-  "name": "bolt",
-  "description": "An AI Agent",
+  "name": "stack8-superbuilder",
+  "description": "An AIStack8 SuperBuilder - AI-Powered Full-Stack Web Development PlatformAgent",
   "private": true,
   "license": "MIT",
   "sideEffects": false,
   "type": "module",
   "version": "1.0.0",
-  "author": {
-    "name": "bolt.diy team",
+  "author": Stack8 SuperBuilder team
+    "name": "bolt.diy maintainers@stack8.dev",
     "email": "maintainers@bolt.diy"
   },
   "scripts": {
